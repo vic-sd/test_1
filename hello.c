@@ -4,7 +4,7 @@
 
 int main(void){
 
-	printf("\n\nTest Git Program - Hello\n");
+	printf("\nTest Git Program - Hello\n\n");
 
 	return 0;
 
